@@ -32,6 +32,16 @@ The project was completed in three phases:
 
 ---
 
+## Dashboard preview
+
+### Page 1 — Overview & operational performance
+![Dashboard Page 1](D1.png)
+
+### Page 2 — Deep analysis & AI insights
+![Dashboard Page 2](D2.png)
+
+---
+
 ## Dataset
 
 - **Source:** Google Forms survey export
